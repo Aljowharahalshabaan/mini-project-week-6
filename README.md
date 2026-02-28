@@ -22,8 +22,7 @@ Selecting Meaningful Visualizations
 
 #5-finally Linking Visuals to Modeling Decisions
 
-
-
+written by : Aljowharah Alshabaan
 
 
 
